@@ -1,0 +1,461 @@
+{
+  "Curso": "Engenharia da Computação",
+  "Ano_Ingresso": 2025,
+  "Periodos": [
+    {
+      "Periodo": 1,
+      "Materias": [
+        {
+          "Nome": "Desenho Técnico para Engenharia I",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE159"
+        },
+        {
+          "Nome": "Física Aplicada à Engenharia I",
+          "Carga_Horaria": 54,
+          "Codigo": "BAE160"
+        },
+        {
+          "Nome": "Física Experimental I",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE179"
+        },
+        {
+          "Nome": "Formação Humana e Prof. em Engenh. de Computação I",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC147"
+        },
+        {
+          "Nome": "Oficina de Leitura e Escrita",
+          "Carga_Horaria": 27,
+          "Codigo": "NCI001"
+        },
+        {
+          "Nome": "Pensamento Computacional e Algoritmos",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE180"
+        },
+        {
+          "Nome": "Pré-cálculo",
+          "Carga_Horaria": 54,
+          "Codigo": "BAE114"
+        },
+        {
+          "Nome": "Sustentabilidade",
+          "Carga_Horaria": 54,
+          "Codigo": "NCI009"
+        }
+      ]
+    },
+    {
+      "Periodo": 2,
+      "Materias": [
+        {
+          "Nome": "Cálculo Diferencial e Integral I",
+          "Carga_Horaria": 54,
+          "Codigo": "BAE074"
+        },
+        {
+          "Nome": "Desenho Técnico para Engenharia II",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE194"
+        },
+        {
+          "Nome": "Física Aplicada à Engenharia II",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE165"
+        },
+        {
+          "Nome": "Física Experimental II",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE181"
+        },
+        {
+          "Nome": "Formação Humana e Prof. em Engenh. de Computação II",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC148"
+        },
+        {
+          "Nome": "Geometria Analítica e Álgebra Linear I",
+          "Carga_Horaria": 54,
+          "Codigo": "BAE161"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar I",
+          "Carga_Horaria": 140,
+          "Codigo": "PBAE01"
+        }
+      ]
+    },
+    {
+      "Periodo": 3,
+      "Materias": [
+        {
+          "Nome": "Cálculo Diferencial e Integral II",
+          "Carga_Horaria": 54,
+          "Codigo": "BAE077"
+        },
+        {
+          "Nome": "Eletricidade e Magnetismo",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE192"
+        },
+        {
+          "Nome": "Estática Aplicada à Engenharia",
+          "Carga_Horaria": 54,
+          "Codigo": "BAE015"
+        },
+        {
+          "Nome": "Geometria Analítica e Álgebra Linear II",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE163"
+        },
+        {
+          "Nome": "Óptica e Física Moderna Aplicada",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE178"
+        },
+        {
+          "Nome": "Programação de Computadores",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE182"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar II",
+          "Carga_Horaria": 140,
+          "Codigo": "PBAE02"
+        }
+      ]
+    },
+    {
+      "Periodo": 4,
+      "Materias": [
+        {
+          "Nome": "Cálculo Numérico e Equ. Diferenciais Ordinárias",
+          "Carga_Horaria": 54,
+          "Codigo": "BAE197"
+        },
+        {
+          "Nome": "Dinâmica Aplicada à Engenharia",
+          "Carga_Horaria": 54,
+          "Codigo": "BAE022"
+        },
+        {
+          "Nome": "Eletricidade Aplicada",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE168"
+        },
+        {
+          "Nome": "Inovação e Desenho Universal",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE171"
+        },
+        {
+          "Nome": "Laboratório de Química para Engenharia",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE017"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar III",
+          "Carga_Horaria": 140,
+          "Codigo": "PBAE03"
+        },
+        {
+          "Nome": "Química Tecnológica para Engenharia",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE169"
+        }
+      ]
+    },
+    {
+      "Periodo": 5,
+      "Materias": [
+        {
+          "Nome": "Aplicações de Mecânica dos Sólidos e Ciência dos Materiais",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC157"
+        },
+        {
+          "Nome": "Circuitos Elétricos aplicados à Eng. de Computação",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC160"
+        },
+        {
+          "Nome": "Fenômenos de Transporte Aplicado",
+          "Carga_Horaria": 54,
+          "Codigo": "EGP125"
+        },
+        {
+          "Nome": "Introdução a Jogos Digitais",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC150"
+        },
+        {
+          "Nome": "Programação Avançada",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC129"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar Aplicado à Eng. de Computação I",
+          "Carga_Horaria": 140,
+          "Codigo": "PEGC01"
+        }
+      ]
+    },
+    {
+      "Periodo": 6,
+      "Materias": [
+        {
+          "Nome": "Algoritmos e Estruturas de Dados",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC111"
+        },
+        {
+          "Nome": "Bancos de Dados",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC100"
+        },
+        {
+          "Nome": "Circuitos Eletrônicos",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC134"
+        },
+        {
+          "Nome": "Otimização de Sistemas",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC141"
+        },
+        {
+          "Nome": "Probabilidade e Estatística",
+          "Carga_Horaria": 27,
+          "Codigo": "BAE029"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar Aplicado à Eng. de Computação II",
+          "Carga_Horaria": 140,
+          "Codigo": "PEGC02"
+        }
+      ]
+    },
+    {
+      "Periodo": 7,
+      "Materias": [
+        {
+          "Nome": "Administração e Engenharia Econômica",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC156"
+        },
+        {
+          "Nome": "Análise e Projetos Orientado a Objetos",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC051"
+        },
+        {
+          "Nome": "Projeto e Análise de Algoritmos",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC176"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar Aplicado à Eng. de Computação III",
+          "Carga_Horaria": 140,
+          "Codigo": "PEGC03"
+        },
+        {
+          "Nome": "Redes de Computadores",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC050"
+        },
+        {
+          "Nome": "Sistemas Digitais",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC047"
+        }
+      ]
+    },
+    {
+      "Periodo": 8,
+      "Materias": [
+        {
+          "Nome": "Análise e Projetos Orientados a Objetos Avançada",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC179"
+        },
+        {
+          "Nome": "Arquitetura e Organização de Computadores",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC091"
+        },
+        {
+          "Nome": "Matemática Discreta e Teoria de Grafos",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC177"
+        },
+        {
+          "Nome": "Microcontroladores e Automação Industrial",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC178"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar Aplicado à Eng. de Computação IV",
+          "Carga_Horaria": 140,
+          "Codigo": "PEGC04"
+        }
+      ]
+    },
+    {
+      "Periodo": 9,
+      "Materias": [
+        {
+          "Nome": "Empreendedorismo",
+          "Carga_Horaria": 27,
+          "Codigo": "EGP140"
+        },
+        {
+          "Nome": "Linguagens Formais e Autômatos",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC180"
+        },
+        {
+          "Nome": "Processamento de Sinais",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC171"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar Aplicado à Eng. de Computação V",
+          "Carga_Horaria": 140,
+          "Codigo": "PEGC05"
+        },
+        {
+          "Nome": "Sistemas de Controle para Engenharia",
+          "Carga_Horaria": 54,
+          "Codigo": "EGE040"
+        },
+        {
+          "Nome": "Sistemas Operacionais",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC044"
+        }
+      ]
+    },
+    {
+      "Periodo": 10,
+      "Materias": [
+        {
+          "Nome": "Desenvolvimento de Aplicativos",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC181"
+        },
+        {
+          "Nome": "Engenharia de Software",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC112"
+        },
+        {
+          "Nome": "Gestão de Projetos em TI",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC145"
+        },
+        {
+          "Nome": "Instrumentação Eletrônica",
+          "Carga_Horaria": 54,
+          "Codigo": "EGE049"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar Avançado à Eng. de Computação I",
+          "Carga_Horaria": 140,
+          "Codigo": "PEGC06"
+        },
+        {
+          "Nome": "Teoria da Computação e Compiladores",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC071"
+        }
+      ]
+    },
+    {
+      "Periodo": 11,
+      "Materias": [
+        {
+          "Nome": "Ciência de Dados",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC172"
+        },
+        {
+          "Nome": "Ética e Cidadania",
+          "Carga_Horaria": 27,
+          "Codigo": "NCI008"
+        },
+        {
+          "Nome": "Inteligência Artificial",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC098"
+        },
+        {
+          "Nome": "Projeto Interdisciplinar Avançado à Eng. de Computação II",
+          "Carga_Horaria": 140,
+          "Codigo": "PEGC07"
+        },
+        {
+          "Nome": "Sistemas de Comunicação e IoT",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC173"
+        },
+        {
+          "Nome": "Sistemas Embarcados e Aplicações",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC119"
+        },
+        {
+          "Nome": "Tópicos Especiais em Engenharia da Computação I",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC126"
+        }
+      ]
+    },
+    {
+      "Periodo": 12,
+      "Materias": [
+        {
+          "Nome": "Computação Gráfica e Processamento de Imagens",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC182"
+        },
+        {
+          "Nome": "Metodologia Científica e Tecnologia para Engenharia",
+          "Carga_Horaria": 54,
+          "Codigo": "BAE193"
+        },
+        {
+          "Nome": "Programação Paralela Distribuída",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC142"
+        },
+        {
+          "Nome": "Segurança de Sistemas de Informação",
+          "Carga_Horaria": 54,
+          "Codigo": "EGC138"
+        },
+        {
+          "Nome": "Tópicos Especiais em Engenharia da Computação II",
+          "Carga_Horaria": 27,
+          "Codigo": "EGC127"
+        },
+        {
+          "Nome": "Atualidades (Optativa)",
+          "Carga_Horaria": 54,
+          "Codigo": "NCI010"
+        },
+        {
+          "Nome": "Libras (Optativa)",
+          "Carga_Horaria": 54,
+          "Codigo": "NCI011"
+        },
+        {
+          "Nome": "Trabalho de Conclusão de Curso (TCC)",
+          "Carga_Horaria": 1010,
+          "Codigo": "TCC"
+        }
+      ]
+    }
+  ]
+}

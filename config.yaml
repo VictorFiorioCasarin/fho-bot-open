@@ -1,0 +1,61 @@
+# ===============================================
+# CONFIGURAÇÕES DO FHO BOT
+# ===============================================
+
+# Configuração do modelo LLM
+llm:
+  temperatura: 0.7
+
+# Configuração do microfone
+# Opções: "aberto", "linha-de-comando", "desabilitado"
+microfone: linha-de-comando
+
+# Modelo LLM usado (deepseek, deepseek7b, deepseek1.5b, gemma3)
+modelo: deepseek
+
+# ===============================================
+# CONFIGURAÇÕES DE TEXT-TO-SPEECH (TTS)
+# ===============================================
+tts:
+  # Habilitar/desabilitar saída de voz
+  habilitado: true
+  
+  # ⚡ MODO TTS: "azure" ou "sapi"
+  # 🌐 azure = Qualidade PREMIUM (neural, limitado a 500k chars/mês)
+  # 🖥️ sapi  = Qualidade BÁSICA (ilimitado, offline)
+  # 💡 Dica: Use "sapi" para testes, "azure" para demonstrações
+  modo: sapi
+  
+  # Configurações Azure TTS (qualidade superior)
+  azure:
+    # Chave de API do Azure Speech Services
+    # OBRIGATÓRIO: substitua pelo valor real da sua conta Azure antes de usar modo "azure".
+    # Exemplo: api_key: "SUA_CHAVE_AZURE_AQUI"
+    api_key: SUA_CHAVE_AZURE_AQUI
+    # Região do serviço Azure
+    regiao: eastus2
+    # Voz neural (pt-BR-FranciscaNeural, pt-BR-AntonioNeural, pt-BR-BrendaNeural)
+    voz: pt-BR-FranciscaNeural
+    # Velocidade da fala (-50% a +200%)
+    velocidade: +0%
+    # Tom de voz (-50% a +200%)
+    pitch: +0%
+    # Volume (0% a 100%)
+    volume: 90%
+  
+  # Configurações Windows SAPI (fallback/economia)
+  sapi:
+    # Tipo de voz: "feminina", "masculina", ou nome específico
+    tipo_voz: feminina
+    # Velocidade da fala -10 a 10 (onde 0 = normal)
+    velocidade: 0
+    # Volume (0.0 a 1.0)
+    volume: 1.0
+
+# ===============================================
+# CONFIGURAÇÕES DE SPEECH-TO-TEXT (STT)
+# ===============================================
+voz:
+  idioma: pt-BR
+  tempo_maximo: 10
+  timeout_inicio: 2
