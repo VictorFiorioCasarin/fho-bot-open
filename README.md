@@ -25,7 +25,11 @@ O FHO Bot foi desenvolvido para:
 - manter um estilo didático, amigável e objetivo, adequado ao público da feira;
 - operar com entrada e saída por voz, além de modo texto.
 
-As regras de comportamento do assistente estão definidas em `prompts/main_prompt.yaml`.
+## Autoria
+
+Projeto desenvolvido por: Victor Fiorio Casarin
+e-mail: victor.fiorio.casarin@gmail.com
+GitHub: https://github.com/VictorFiorioCasarin
 
 ## Principais Funcionalidades
 
@@ -59,6 +63,8 @@ Componentes centrais:
 - `text_to_speech/tts_manager.py`: seleção e gerenciamento do provedor TTS.
 - `config.yaml`: configurações globais do projeto.
 - `prompts/main_prompt.yaml`: regras de comportamento e estilo do assistente.
+
+As regras de comportamento do assistente estão definidas em `prompts/main_prompt.yaml`.
 
 ## Requisitos
 
